@@ -1,7 +1,7 @@
 # Site settings
 title: Boboo Blog
 SEOTitle: Boboo 的博客 | Boboo Blog
-header-img: img/home-bg.jpg
+header-img: img/post-bg-unix-linux.jpg
 email: huxpro@gmail.com
 description: "Software Engineer | 这里是 Boboo 的个人博客，与你一起发现更大的世界。"
 keyword: "Bobo Blog, 博客, 个人网站, 互联网, Hadoop, 大数据, Python, Java"
@@ -68,7 +68,7 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: be44302bee21f765bb624cf5e36096d0
 
 # Google Analytics
 # ga_track_id:             # Format: UA-xxxxxx-xx
