@@ -2,7 +2,7 @@
 layout: post
 title: Linux mint 安装  mysql 与 phpmyadmin
 categories: mysql
-tag:
+tags:
 - Linux
 ---
 

@@ -2,6 +2,8 @@
 layout: post
 title: python3 使用 dom 解析 xml 文件
 categories: python
+tags:
+- python
 ---
 
 前几天公司项目需要处理 apk 中有关string资源里格式化字符串内容，android 中字符串资源都储存在 strings.xml 中，而 string.xml 文件格式是 xml ，如果使用 python 处理的话，需要解析 xml 文件。之前没有解析过 xml 文件。啊，只好现学了。常用解析 xml 文件的方法有 DOM、SAX、StAX 等。今天就要DOM解析一下

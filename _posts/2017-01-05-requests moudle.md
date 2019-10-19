@@ -2,7 +2,7 @@
 layout: post
 title: 模块学习笔记 requests
 categories: python
-tag:
+tags:
 - 网络
 
 ---
