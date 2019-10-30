@@ -2,6 +2,7 @@
 layout: post
 title: Mysql select 语句学习
 categories: mysql
+header-style: text
 tags:
 - Mysql
 ---
